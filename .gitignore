@@ -1,0 +1,17 @@
+# Temporários e ambientes
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.log
+*.safetensors
+*.bin
+*.pt
+*.pth
